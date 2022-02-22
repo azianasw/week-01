@@ -5,7 +5,7 @@ export default class Product{
     }
 
     toString(){
-        
+        // lengkapi disini
     }
 
 }
