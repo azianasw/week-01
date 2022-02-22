@@ -5,8 +5,7 @@ export default class Product{
     }
 
     toString(){
-        return `\tprodId = ${this.prodId},productName=${this.prodName},
-        category = ${this.category},price=${this.price},total=${this.totalBuy},subTotalHarga=${this.subTotal}`
+        
     }
 
 }
