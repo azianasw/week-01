@@ -13,3 +13,5 @@ const totalTagihanDiscount = (discount) => {
 
 
 console.log(`Total Tagihan discount=${totalTagihanDiscount(10)}`); // Total Tagihan discount=58580000
+
+console.log(listCart.toString());
